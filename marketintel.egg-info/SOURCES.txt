@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+marketintel/__init__.py
+marketintel/analyzer.py
+marketintel/cli.py
+marketintel/collector.py
+marketintel/exporter.py
+marketintel.egg-info/PKG-INFO
+marketintel.egg-info/SOURCES.txt
+marketintel.egg-info/dependency_links.txt
+marketintel.egg-info/entry_points.txt
+marketintel.egg-info/requires.txt
+marketintel.egg-info/top_level.txt

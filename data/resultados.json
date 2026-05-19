@@ -1,0 +1,537 @@
+[
+  {
+    "nombre": "Damos - Agencia de Marketing Digital",
+    "rating": 4.9,
+    "reseñas": 68,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Diseñador gráfico",
+      "Servicio de marketing por Internet",
+      "Diseñador de sitios web",
+      "Consultora de marketing"
+    ],
+    "direccion": "Millenium Business Tower, Cl 36 # 27 71 Oficina 804 Edificio, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 316 2393062",
+    "sitio_web": "https://www.damos.co/",
+    "horario": {
+      "lunes": "8 a.m.–12 p.m., 2–6 p.m.",
+      "martes": "8 a.m.–12 p.m., 2–6 p.m.",
+      "miércoles": "8 a.m.–12 p.m., 2–6 p.m.",
+      "jueves": "8 a.m.–12 p.m., 2–6 p.m.",
+      "viernes": "8 a.m.–12 p.m., 2–6 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJOXOQDmEVaI4RZ78YZWWC79o",
+    "data_id": "0x8e6815610e907339:0xdaef82656518bf67",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815610e907339%3A0xdaef82656518bf67&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1217030999999995,
+    "longitud": -73.1160218
+  },
+  {
+    "nombre": "PubliDigital Agencia de Marketing Digital",
+    "rating": 4.8,
+    "reseñas": 31,
+    "tipos": [
+      "Agencia de marketing",
+      "Consultora de marketing",
+      "Diseñador de sitios web"
+    ],
+    "direccion": "Cl. 53 #31 152, Sotomayor, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 312 4735629",
+    "sitio_web": "https://publibga.com/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "8 a.m.–6 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJb0Sxb4I_aI4Rkrc0WzcuKtI",
+    "data_id": "0x8e683f826fb1446f:0xd22a2e375b34b792",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f826fb1446f%3A0xd22a2e375b34b792&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1112115,
+    "longitud": -73.1106558
+  },
+  {
+    "nombre": "Labweb Agencia de Marketing",
+    "rating": 4.9,
+    "reseñas": 118,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Servicio de marketing por Internet",
+      "Consultora de marketing",
+      "Servicio de edición de vídeo",
+      "Empresa de alojamiento web",
+      "Diseñador de sitios web"
+    ],
+    "direccion": "Edificio KBC, Cl. 49 #27a-65 Oficina 503, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 301 2537333",
+    "sitio_web": "https://www.laboratorioweb.com.co/",
+    "horario": {
+      "lunes": "8 a.m.–8:30 p.m.",
+      "martes": "8 a.m.–8:30 p.m.",
+      "miércoles": "8 a.m.–8:30 p.m.",
+      "jueves": "8 a.m.–8:30 p.m.",
+      "viernes": "8 a.m.–8:30 p.m.",
+      "sábado": "8 a.m.–1 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJp2si19M_aI4RxD786gnv-e4",
+    "data_id": "0x8e683fd3d7226ba7:0xeef9ef09eafc3ec4",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fd3d7226ba7%3A0xeef9ef09eafc3ec4&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1158322,
+    "longitud": -73.1137394
+  },
+  {
+    "nombre": "Agencia Signature",
+    "rating": 5,
+    "reseñas": 50,
+    "tipos": [
+      "Agencia de publicidad"
+    ],
+    "direccion": "Cra. 37 #42 - 103, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 318 2069369",
+    "sitio_web": "http://www.agenciasignature.com/",
+    "horario": {
+      "lunes": "10 a.m.–1 p.m., 3–6 p.m.",
+      "martes": "10 a.m.–1 p.m., 3–6 p.m.",
+      "miércoles": "10 a.m.–1 p.m., 3–6 p.m.",
+      "jueves": "10 a.m.–1 p.m., 3–6 p.m.",
+      "viernes": "9 a.m.–1 p.m., 3–6 p.m.",
+      "sábado": "10 a.m.–1 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJ63MWmBkVaI4Rr38KMMiP8lw",
+    "data_id": "0x8e681519981673eb:0x5cf28fc8300a7faf",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e681519981673eb%3A0x5cf28fc8300a7faf&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1207379,
+    "longitud": -73.1087521
+  },
+  {
+    "nombre": "MAD Agencia",
+    "rating": 4.4,
+    "reseñas": 15,
+    "tipos": [
+      "Servicio de marketing por Internet",
+      "Agencia de marketing",
+      "Consultora de marketing"
+    ],
+    "direccion": "Cl. 33 #26 - 25, Antonia Santos, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 300 5161511",
+    "sitio_web": "https://www.madagencia.com/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJAQBMeeM_aI4Rz3t0MyWPKxU",
+    "data_id": "0x8e683fe3794c0001:0x152b8f2533747bcf",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fe3794c0001%3A0x152b8f2533747bcf&engine=google_maps_reviews&hl=es",
+    "latitud": 7.123703099999999,
+    "longitud": -73.11842539999999
+  },
+  {
+    "nombre": "Agencia SEO Colombia",
+    "rating": 4.9,
+    "reseñas": 19,
+    "tipos": [
+      "Agencia de marketing",
+      "Servicio de marketing por Internet",
+      "Agencia de publicidad",
+      "Consultora de marketing",
+      "Diseñador de sitios web"
+    ],
+    "direccion": "Cl. 14 #35-125 oficina 403, Los pinos, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 318 7678828",
+    "sitio_web": "https://marketingdigitalbucaramanga.com/",
+    "horario": {
+      "lunes": "Abierto las 24 horas",
+      "martes": "Abierto las 24 horas",
+      "miércoles": "Abierto las 24 horas",
+      "jueves": "Abierto las 24 horas",
+      "viernes": "Abierto las 24 horas",
+      "sábado": "Abierto las 24 horas",
+      "domingo": "Abierto las 24 horas"
+    },
+    "place_id": "ChIJedUtTkIVaI4R-2EtsaEQDcw",
+    "data_id": "0x8e6815424e2dd579:0xcc0d10a1b12d61fb",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815424e2dd579%3A0xcc0d10a1b12d61fb&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1345081,
+    "longitud": -73.10901319999999
+  },
+  {
+    "nombre": "agencia mdb",
+    "rating": 4.9,
+    "reseñas": 61,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Diseñador gráfico",
+      "Diseñador de sitios web",
+      "Consultora de marketing"
+    ],
+    "direccion": "Cra. 28 #33-02, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 316 8818343",
+    "sitio_web": "https://agenciamdb.com/",
+    "horario": {
+      "lunes": "Abierto las 24 horas",
+      "martes": "Abierto las 24 horas",
+      "miércoles": "Abierto las 24 horas",
+      "jueves": "Abierto las 24 horas",
+      "viernes": "Abierto las 24 horas",
+      "sábado": "Abierto las 24 horas",
+      "domingo": "Abierto las 24 horas"
+    },
+    "place_id": "ChIJwT-WrE0VaI4RhEZxtGhL5pM",
+    "data_id": "0x8e68154dac963fc1:0x93e64b68b4714684",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e68154dac963fc1%3A0x93e64b68b4714684&engine=google_maps_reviews&hl=es",
+    "latitud": 7.124354899999999,
+    "longitud": -73.1167403
+  },
+  {
+    "nombre": "Agencia Digital",
+    "rating": 5,
+    "reseñas": 36,
+    "tipos": [
+      "Agencia de marketing",
+      "Diseñador gráfico",
+      "Diseñador de sitios web",
+      "Consultora de marketing"
+    ],
+    "direccion": "Avenida Quebrada Seca con, Cra 33A, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 318 7678828",
+    "sitio_web": "https://agencia-digital.com.co/",
+    "horario": {
+      "lunes": "Abierto las 24 horas",
+      "martes": "Abierto las 24 horas",
+      "miércoles": "Abierto las 24 horas",
+      "jueves": "Abierto las 24 horas",
+      "viernes": "Abierto las 24 horas",
+      "sábado": "Abierto las 24 horas",
+      "domingo": "Abierto las 24 horas"
+    },
+    "place_id": "ChIJ7wF5o9cVaI4RG2GlzLZ_Nr8",
+    "data_id": "0x8e6815d7a37901ef:0xbf367fb6cca5611b",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815d7a37901ef%3A0xbf367fb6cca5611b&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1311371999999995,
+    "longitud": -73.1128509
+  },
+  {
+    "nombre": "Marketing 1A Agencia",
+    "rating": 5,
+    "reseñas": 10,
+    "tipos": [
+      "Agencia de marketing"
+    ],
+    "direccion": "Cra 21 #103-16, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 322 9493846",
+    "sitio_web": "http://www.marketing1a.com.co/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "8 a.m.–6 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJQ7aeiaM_aI4RaZYc6tNnnq0",
+    "data_id": "0x8e683fa3899eb643:0xad9e67d3ea1c9669",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fa3899eb643%3A0xad9e67d3ea1c9669&engine=google_maps_reviews&hl=es",
+    "latitud": 7.086327,
+    "longitud": -73.11715219999999
+  },
+  {
+    "nombre": "Agencia Simétrika",
+    "rating": 5,
+    "reseñas": 12,
+    "tipos": [
+      "Agencia de marketing"
+    ],
+    "direccion": "Cra. 24 #65-59, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 316 6252213",
+    "sitio_web": "http://www.agenciasimetrika.com/",
+    "horario": {
+      "lunes": "8 a.m.–5 p.m.",
+      "martes": "8 a.m.–5 p.m.",
+      "miércoles": "8 a.m.–5 p.m.",
+      "jueves": "8 a.m.–5 p.m.",
+      "viernes": "8 a.m.–5 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJmUyWYVc_aI4RBTVsWUbMGaY",
+    "data_id": "0x8e683f5761964c99:0xa619cc46596c3505",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f5761964c99%3A0xa619cc46596c3505&engine=google_maps_reviews&hl=es",
+    "latitud": 7.102272999999999,
+    "longitud": -73.11461589999999
+  },
+  {
+    "nombre": "Agencia go media",
+    "rating": 4.5,
+    "reseñas": 29,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad"
+    ],
+    "direccion": "Cra. 35 #5477, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 321 5081516",
+    "sitio_web": "https://agenciago.com/",
+    "horario": {
+      "lunes": "8 a.m.–5 p.m.",
+      "martes": "8 a.m.–5 p.m.",
+      "miércoles": "8 a.m.–5 p.m.",
+      "jueves": "8 a.m.–5 p.m.",
+      "viernes": "8 a.m.–5 p.m.",
+      "sábado": "8 a.m.–12 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJZz7S-Z4_aI4RWhvM0htFIaI",
+    "data_id": "0x8e683f9ef9d23e67:0xa221451bd2cc1b5a",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f9ef9d23e67%3A0xa221451bd2cc1b5a&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1105618999999995,
+    "longitud": -73.108691
+  },
+  {
+    "nombre": "Agencia de Publicidad Empuje Creativo",
+    "rating": 4.8,
+    "reseñas": 19,
+    "tipos": [
+      "Agencia de publicidad"
+    ],
+    "direccion": "Altos del cacique, Cra. 56 #85 -31 Torre 8 Apto 132, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 607 6994526",
+    "sitio_web": "http://www.empujecreativo.com/",
+    "horario": {
+      "lunes": "8 a.m.–7 p.m.",
+      "martes": "8 a.m.–7 p.m.",
+      "miércoles": "8 a.m.–7 p.m.",
+      "jueves": "8 a.m.–7 p.m.",
+      "viernes": "8 a.m.–7 p.m.",
+      "sábado": "8 a.m.–12 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJUcwJJo0_aI4RuGWPkA1O0aU",
+    "data_id": "0x8e683f8d2609cc51:0xa5d14e0d908f65b8",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f8d2609cc51%3A0xa5d14e0d908f65b8&engine=google_maps_reviews&hl=es",
+    "latitud": 7.0988790999999996,
+    "longitud": -73.0967929
+  },
+  {
+    "nombre": "Dardo Creativo",
+    "rating": 4.5,
+    "reseñas": 13,
+    "tipos": [
+      "Agencia de marketing"
+    ],
+    "direccion": "Cl. 34 #31-24, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 302 5463551",
+    "sitio_web": "http://www.dardocreativo.com/",
+    "horario": {
+      "lunes": "8 a.m.–7 p.m.",
+      "martes": "8 a.m.–7 p.m.",
+      "miércoles": "8 a.m.–7 p.m.",
+      "jueves": "8 a.m.–7 p.m.",
+      "viernes": "8 a.m.–7 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJbyKBKWEVaI4RLsxM-hWKusw",
+    "data_id": "0x8e6815612981226f:0xccba8a15fa4ccc2e",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815612981226f%3A0xccba8a15fa4ccc2e&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1246424,
+    "longitud": -73.1138989
+  },
+  {
+    "nombre": "Play Design Publicidad",
+    "rating": 4.5,
+    "reseñas": 63,
+    "tipos": [
+      "Agencia de publicidad"
+    ],
+    "direccion": "Cl. 42 #17-20, Centro, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 300 7775048",
+    "sitio_web": "https://playdesign.com.co/",
+    "horario": {
+      "lunes": "8:15 a.m.–12 p.m., 2–6 p.m.",
+      "martes": "8:15 a.m.–12 a.m.",
+      "miércoles": "12–6 a.m., 8:15 a.m.–12 p.m., 2–6 p.m.",
+      "jueves": "8:15 a.m.–12 p.m., 2–6 p.m.",
+      "viernes": "8:15 a.m.–12 p.m., 2–6 p.m.",
+      "sábado": "8:15 a.m.–1 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJJ-yFqtA_aI4R0Ejf8DYH0Tw",
+    "data_id": "0x8e683fd0aa85ec27:0x3cd10736f0df48d0",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fd0aa85ec27%3A0x3cd10736f0df48d0&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1158522,
+    "longitud": -73.1229704
+  },
+  {
+    "nombre": "Hacemos Comunicación",
+    "rating": 4.9,
+    "reseñas": 62,
+    "tipos": [
+      "Agencia de publicidad",
+      "Impresora digital"
+    ],
+    "direccion": "Cra. 35 #54-32, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 6471299",
+    "sitio_web": null,
+    "horario": {
+      "lunes": "7:30 a.m.–12 p.m., 2–6 p.m.",
+      "martes": "7:30 a.m.–12 p.m., 2–6 p.m.",
+      "miércoles": "7:30 a.m.–12 p.m., 2–6 p.m.",
+      "jueves": "7:30 a.m.–12 p.m., 2–6 p.m.",
+      "viernes": "8 a.m.–12 p.m., 2–6 p.m.",
+      "sábado": "8 a.m.–12 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJZegozuc_aI4R7CRmwwCnLu4",
+    "data_id": "0x8e683fe7ce28e865:0xee2ea700c36624ec",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fe7ce28e865%3A0xee2ea700c36624ec&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1108343,
+    "longitud": -73.1089982
+  },
+  {
+    "nombre": "Graficon Publicidad",
+    "rating": 4.6,
+    "reseñas": 39,
+    "tipos": [
+      "Agencia de publicidad"
+    ],
+    "direccion": "Cra 16 #50-04, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 316 7498101",
+    "sitio_web": null,
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "7:30 a.m.–6:30 p.m.",
+      "miércoles": "7:30 a.m.–6:30 p.m.",
+      "jueves": "7:30 a.m.–6:30 p.m.",
+      "viernes": "7:30 a.m.–6:30 p.m.",
+      "sábado": "8 a.m.–2 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJJWMQqNo_aI4RUPGOjcm0-fg",
+    "data_id": "0x8e683fdaa8106325:0xf8f9b4c98d8ef150",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fdaa8106325%3A0xf8f9b4c98d8ef150&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1112926,
+    "longitud": -73.12317519999999
+  },
+  {
+    "nombre": "SOLO DISEÑOS | Personalización Premium Bucaramanga",
+    "rating": 4.9,
+    "reseñas": 52,
+    "tipos": [
+      "Agencia de publicidad",
+      "Diseñador gráfico",
+      "Tienda de regalos",
+      "Imprenta",
+      "Societe de Flocage"
+    ],
+    "direccion": "Cl. 41 #19-38, Centro, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 301 5793703",
+    "sitio_web": "https://www.instagram.com/solodisenosbga/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "8 a.m.–2 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJ0UzQAHQ_aI4RqV-mejvYOY0",
+    "data_id": "0x8e683f7400d04cd1:0x8d39d83b7aa65fa9",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f7400d04cd1%3A0x8d39d83b7aa65fa9&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1168359,
+    "longitud": -73.1217559
+  },
+  {
+    "nombre": "GJA",
+    "rating": 4.6,
+    "reseñas": 10,
+    "tipos": [
+      "Agencia de publicidad"
+    ],
+    "direccion": "Cl. 45 # 24-74, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 318 3324824",
+    "sitio_web": "https://gjapublicidad.com/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "9 a.m.–1 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJMSK8Gpc_aI4Ri19kei1whF4",
+    "data_id": "0x8e683f971abc2231:0x5e84702d7a645f8b",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f971abc2231%3A0x5e84702d7a645f8b&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1174253,
+    "longitud": -73.11716249999999
+  },
+  {
+    "nombre": "Galanés Agencia de Comunicación",
+    "rating": 5,
+    "reseñas": 20,
+    "tipos": [
+      "Agencia de publicidad"
+    ],
+    "direccion": "Edificio Pranna, Cra. 32 #38-67, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 321 4403370",
+    "sitio_web": "https://galanes.net/",
+    "horario": {
+      "lunes": "8 a.m.–12 p.m., 2–6 p.m.",
+      "martes": "8 a.m.–12 p.m., 2–6 p.m.",
+      "miércoles": "8 a.m.–12 p.m., 2–6 p.m.",
+      "jueves": "8 a.m.–12 p.m., 2–6 p.m.",
+      "viernes": "8 a.m.–12 p.m., 2–6 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJ2Ti6w7UVaI4RmRS5vzD1IyU",
+    "data_id": "0x8e6815b5c3ba38d9:0x2523f530bfb91499",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815b5c3ba38d9%3A0x2523f530bfb91499&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1219066,
+    "longitud": -73.112674
+  },
+  {
+    "nombre": "Creativo Graphic",
+    "rating": 5,
+    "reseñas": 16,
+    "tipos": [
+      "Agencia de publicidad",
+      "Diseñador gráfico",
+      "Servicio de marketing por Internet",
+      "Diseñador de sitios web"
+    ],
+    "direccion": "Cra. 24 #28-26, Bucaramanga, Santander, Colombia",
+    "telefono": "+57 304 2248884",
+    "sitio_web": "https://creativographic.com/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "8 a.m.–5 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJxy-QCSMVaI4RfRHibo9V7LU",
+    "data_id": "0x8e68152309902fc7:0xb5ec558f6ee2117d",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e68152309902fc7%3A0xb5ec558f6ee2117d&engine=google_maps_reviews&hl=es",
+    "latitud": 7.1259809999999995,
+    "longitud": -73.1213532
+  }
+]
