@@ -1,537 +1,536 @@
 [
   {
-    "nombre": "Damos - Agencia de Marketing Digital",
+    "nombre": "Asesoría en Internet CIEENZA",
+    "rating": 5,
+    "reseñas": 151,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Servicio de marketing por Internet",
+      "Consultora de marketing"
+    ],
+    "direccion": "Cl. 52 #47 - 28, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia, Colombia",
+    "telefono": "+57 324 7966666",
+    "sitio_web": "https://cieenza.com/",
+    "horario": {
+      "lunes": "9 a.m.–5 p.m.",
+      "martes": "9 a.m.–5 p.m.",
+      "miércoles": "9 a.m.–5 p.m.",
+      "jueves": "9 a.m.–5 p.m.",
+      "viernes": "9 a.m.–5 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJ_7-zhvgoRI4R6RNscvfdMBY",
+    "data_id": "0x8e4428f886b3bfff:0x1630ddf7726c13e9",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4428f886b3bfff%3A0x1630ddf7726c13e9&engine=google_maps_reviews&hl=es",
+    "latitud": 6.24982,
+    "longitud": -75.56574599999999
+  },
+  {
+    "nombre": "BTODigital - Agencia de Marketing Digital, Agencia de Inbound Marketing, Agencia SEO, Diseño de Páginas Web",
+    "rating": 5,
+    "reseñas": 146,
+    "tipos": [
+      "Servicio de marketing por Internet",
+      "Consultora informática",
+      "Agencia de marketing",
+      "Consultora de marketing",
+      "Diseñador de sitios web"
+    ],
+    "direccion": "Club Unión, Cra. 42A #1, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": "+57 305 3936426",
+    "sitio_web": "https://btodigital.com/",
+    "horario": {
+      "lunes": "8 a.m.–5 p.m.",
+      "martes": "8 a.m.–5 p.m.",
+      "miércoles": "8 a.m.–5 p.m.",
+      "jueves": "8 a.m.–5 p.m.",
+      "viernes": "8 a.m.–5 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJ_xTka7wpRI4Rap1zewe32Ms",
+    "data_id": "0x8e4429bc6be414ff:0xcbd8b7077b739d6a",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4429bc6be414ff%3A0xcbd8b7077b739d6a&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2045211,
+    "longitud": -75.5707141
+  },
+  {
+    "nombre": "Knowbi Agencia de Marketing Digital",
+    "rating": 5,
+    "reseñas": 140,
+    "tipos": [
+      "Agencia de marketing"
+    ],
+    "direccion": "Cra. 67 #1aa -4, Guayabal, Medellín, Guayabal, Medellín, Antioquia, Colombia",
+    "telefono": "+57 301 5582604",
+    "sitio_web": "https://www.knowbi.com/",
+    "horario": {
+      "lunes": "7 a.m.–5 p.m.",
+      "martes": "7 a.m.–5 p.m.",
+      "miércoles": "7 a.m.–5 p.m.",
+      "jueves": "7 a.m.–5 p.m.",
+      "viernes": "7 a.m.–5 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJ-SB2wOQpRI4R8ZEeRsSl_5Q",
+    "data_id": "0x8e4429e4c07620f9:0x94ffa5c4461e91f1",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4429e4c07620f9%3A0x94ffa5c4461e91f1&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2104064999999995,
+    "longitud": -75.5902589
+  },
+  {
+    "nombre": "Carlos Betancur Gálvez - Consultor en Marketing Digital - Consultor en E-commerce",
+    "rating": 5,
+    "reseñas": 134,
+    "tipos": [
+      "Consultora de marketing",
+      "Servicio de marketing por Internet",
+      "Agencia de marketing"
+    ],
+    "direccion": "Club Unión, Cra. 43A #1-50, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": null,
+    "sitio_web": "http://carlosbetancur.co/",
+    "horario": {
+      "lunes": "8 a.m.–5 p.m.",
+      "martes": "8 a.m.–5 p.m.",
+      "miércoles": "8 a.m.–5 p.m.",
+      "jueves": "8 a.m.–5 p.m.",
+      "viernes": "8 a.m.–5 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJgar9PxopRI4R9HVpiXMSdms",
+    "data_id": "0x8e44291a3ffdaa81:0x6b761273896975f4",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e44291a3ffdaa81%3A0x6b761273896975f4&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2043449,
+    "longitud": -75.5710605
+  },
+  {
+    "nombre": "20S Agencia",
+    "rating": 5,
+    "reseñas": 112,
+    "tipos": [
+      "Agencia de marketing",
+      "Oficinas de empresa"
+    ],
+    "direccion": "Cra. 76 #35-09 int 201, Laureles - Estadio, Envigado, Medellín, Laureles, Medellín, Antioquia, Colombia",
+    "telefono": "+57 304 4998130",
+    "sitio_web": "https://www.20sagencia.com/",
+    "horario": {
+      "lunes": "7:30 a.m.–5:30 p.m.",
+      "martes": "7:30 a.m.–5:30 p.m.",
+      "miércoles": "7:30 a.m.–5:30 p.m.",
+      "jueves": "7:30 a.m.–5:30 p.m.",
+      "viernes": "7:30 a.m.–5:30 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJy0cbMfgpRI4RxM6SMV3_4qo",
+    "data_id": "0x8e4429f8311b47cb:0xaae2ff5d3192cec4",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4429f8311b47cb%3A0xaae2ff5d3192cec4&engine=google_maps_reviews&hl=es",
+    "latitud": 6.242614199999999,
+    "longitud": -75.5970924
+  },
+  {
+    "nombre": "IMGCreativo",
+    "rating": 5,
+    "reseñas": 66,
+    "tipos": [
+      "Agencia de marketing"
+    ],
+    "direccion": "Cl. 46 #80 23, La Floresta, Medellín, La América, Medellín, Antioquia, Colombia",
+    "telefono": "+57 300 2112226",
+    "sitio_web": "http://www.imgcreativo.net/",
+    "horario": {
+      "lunes": "Abierto las 24 horas",
+      "martes": "Abierto las 24 horas",
+      "miércoles": "Abierto las 24 horas",
+      "jueves": "Abierto las 24 horas",
+      "viernes": "Abierto las 24 horas",
+      "sábado": "Abierto las 24 horas",
+      "domingo": "Abierto las 24 horas"
+    },
+    "place_id": "ChIJzZqNMnYpRI4RYPVeDwGPeQA",
+    "data_id": "0x8e442976328d9acd:0x798f010f5ef560",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e442976328d9acd%3A0x798f010f5ef560&engine=google_maps_reviews&hl=es",
+    "latitud": 6.25625,
+    "longitud": -75.5986253
+  },
+  {
+    "nombre": "CONKER Agencia de Publicidad",
+    "rating": 5,
+    "reseñas": 58,
+    "tipos": [
+      "Agencia de publicidad"
+    ],
+    "direccion": "Carrera 33 #7A - 22 Edificio Siete A of. 301, Medellín, Antioquia, Colombia",
+    "telefono": "+57 302 4219782",
+    "sitio_web": "https://conker.com.co/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJB00VjySDRo4RO5kD_mlo0es",
+    "data_id": "0x8e4683248f154d07:0xebd16869fe03993b",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4683248f154d07%3A0xebd16869fe03993b&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2066431,
+    "longitud": -75.5641283
+  },
+  {
+    "nombre": "️ Los Creativos: Agencia de SEO y Rediseño Web en Colombia",
+    "rating": 5,
+    "reseñas": 41,
+    "tipos": [
+      "Agencia de marketing",
+      "Consultora informática",
+      "Consultora de marketing",
+      "Empresa de software",
+      "Empresa de alojamiento web"
+    ],
+    "direccion": "Edificio C34, Cl. 15 #Piso 04 Oficina 405, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": "+57 301 4525141",
+    "sitio_web": "https://loscreativos.co/?utm_source=google+my+bussines&utm_medium=urls",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–2 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJ-84kwCWDRo4RNjhN5y_WVug",
+    "data_id": "0x8e468325c024cefb:0xe856d62fe74d3836",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e468325c024cefb%3A0xe856d62fe74d3836&engine=google_maps_reviews&hl=es",
+    "latitud": 6.214697699999999,
+    "longitud": -75.56344729999999
+  },
+  {
+    "nombre": "Agencia de marketing digital en Medellín. Pixel Crow",
+    "rating": 5,
+    "reseñas": 26,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Impresora digital",
+      "Servicio de marketing por Internet",
+      "Tienda de fotografía",
+      "Fotógrafo",
+      "Empresa de alojamiento web",
+      "Diseñador de sitios web"
+    ],
+    "direccion": "25, Carrera 43B #25-14, Medellín, Antioquia, Colombia",
+    "telefono": "+57 310 6410189",
+    "sitio_web": "https://www.agenciadigitalpixel.com/",
+    "horario": {
+      "lunes": "8 a.m.–6 p.m.",
+      "martes": "8 a.m.–6 p.m.",
+      "miércoles": "8 a.m.–6 p.m.",
+      "jueves": "8 a.m.–6 p.m.",
+      "viernes": "8 a.m.–6 p.m.",
+      "sábado": "9 a.m.–5 p.m.",
+      "domingo": "9 a.m.–5 p.m."
+    },
+    "place_id": "ChIJy0pJ5rspRI4RHlT4gISIM9g",
+    "data_id": "0x8e4429bbe6494acb:0xd833888480f8541e",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4429bbe6494acb%3A0xd833888480f8541e&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2253788,
+    "longitud": -75.5681446
+  },
+  {
+    "nombre": "TRAZENRED | Agencia de Marketing Digital",
+    "rating": 5,
+    "reseñas": 22,
+    "tipos": [
+      "Agencia de marketing"
+    ],
+    "direccion": "Km 5. Av. Las Palmas, Ed. Cortezza, piso 6, Medellín, Antioquia, Colombia",
+    "telefono": "+57 321 6982327",
+    "sitio_web": "http://www.trazenred.net/",
+    "horario": {
+      "lunes": "Abierto las 24 horas",
+      "martes": "Abierto las 24 horas",
+      "miércoles": "Abierto las 24 horas",
+      "jueves": "Abierto las 24 horas",
+      "viernes": "Abierto las 24 horas",
+      "sábado": "Abierto las 24 horas",
+      "domingo": "Abierto las 24 horas"
+    },
+    "place_id": "ChIJ4dB4jqcpRI4R0gRVjbFeElU",
+    "data_id": "0x8e4429a78e78d0e1:0x55125eb18d5504d2",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4429a78e78d0e1%3A0x55125eb18d5504d2&engine=google_maps_reviews&hl=es",
+    "latitud": 6.219183699999999,
+    "longitud": -75.55935099999999
+  },
+  {
+    "nombre": "AC Marketing - Agencia de Publicidad Digital",
+    "rating": 5,
+    "reseñas": 18,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Asesor",
+      "Consultora de marketing"
+    ],
+    "direccion": "Cra. 68A #44 - 72, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia, Colombia",
+    "telefono": "+57 320 6082309",
+    "sitio_web": "http://www.acontraluzmarketing.com/",
+    "horario": {
+      "lunes": "8 a.m.–5 p.m.",
+      "martes": "8 a.m.–5 p.m.",
+      "miércoles": "8 a.m.–5 p.m.",
+      "jueves": "8 a.m.–5 p.m.",
+      "viernes": "8 a.m.–5 p.m.",
+      "sábado": "9 a.m.–12 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJh8fiV-opRI4Ro9tNaM6KYyw",
+    "data_id": "0x8e4429ea57e2c787:0x2c638ace684ddba3",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4429ea57e2c787%3A0x2c638ace684ddba3&engine=google_maps_reviews&hl=es",
+    "latitud": 6.249663099999999,
+    "longitud": -75.5866513
+  },
+  {
+    "nombre": "Agencia SEO Marketing LAB Medellín | Posicionamiento WEB",
+    "rating": 4.9,
+    "reseñas": 16,
+    "tipos": [
+      "Agencia de marketing"
+    ],
+    "direccion": "Nock - Reserved Residences, Cra. 32 #12A - 11, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": "+57 310 2602777",
+    "sitio_web": "https://marketinglabb.com/",
+    "horario": {
+      "lunes": "Abierto las 24 horas",
+      "martes": "Abierto las 24 horas",
+      "miércoles": "Abierto las 24 horas",
+      "jueves": "Abierto las 24 horas",
+      "viernes": "Abierto las 24 horas",
+      "sábado": "Abierto las 24 horas",
+      "domingo": "Abierto las 24 horas"
+    },
+    "place_id": "ChIJv-nII3WDRo4RalQtQAXMgko",
+    "data_id": "0x8e46837523c8e9bf:0x4a82cc05402d546a",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e46837523c8e9bf%3A0x4a82cc05402d546a&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2134363,
+    "longitud": -75.5626552
+  },
+  {
+    "nombre": "The mente digital - Agencia de Growth Marketing",
+    "rating": 4.9,
+    "reseñas": 16,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Service establishment",
+      "Diseñador de sitios web"
+    ],
+    "direccion": null,
+    "telefono": "+57 311 6905372",
+    "sitio_web": "https://thementedigital.com.co/",
+    "horario": {
+      "lunes": "8 a.m.–5:30 p.m.",
+      "martes": "8 a.m.–5:30 p.m.",
+      "miércoles": "8 a.m.–5:30 p.m.",
+      "jueves": "8 a.m.–5:30 p.m.",
+      "viernes": "8 a.m.–5:30 p.m.",
+      "sábado": "8 a.m.–5:30 p.m.",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJT0qA4cTP8CURB6iLX03W0bY",
+    "data_id": "0x25f0cfc4e1804a4f:0xb6d1d64d5f8ba807",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x25f0cfc4e1804a4f%3A0xb6d1d64d5f8ba807&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2283905,
+    "longitud": -75.583873
+  },
+  {
+    "nombre": "Agencia Marketing digital en Medellín | Growth Digital",
     "rating": 4.9,
     "reseñas": 68,
     "tipos": [
       "Agencia de marketing",
-      "Agencia de publicidad",
-      "Diseñador gráfico",
-      "Servicio de marketing por Internet",
-      "Diseñador de sitios web",
-      "Consultora de marketing"
+      "Diseñador de sitios web"
     ],
-    "direccion": "Millenium Business Tower, Cl 36 # 27 71 Oficina 804 Edificio, Mejoras Públicas, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 316 2393062",
-    "sitio_web": "https://www.damos.co/",
+    "direccion": "unidad turin, Cra. 56A #61-24, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia, Colombia",
+    "telefono": "+57 320 7328366",
+    "sitio_web": "https://growthdigital.marketing/",
     "horario": {
-      "lunes": "8 a.m.–12 p.m., 2–6 p.m.",
-      "martes": "8 a.m.–12 p.m., 2–6 p.m.",
-      "miércoles": "8 a.m.–12 p.m., 2–6 p.m.",
-      "jueves": "8 a.m.–12 p.m., 2–6 p.m.",
-      "viernes": "8 a.m.–12 p.m., 2–6 p.m.",
-      "sábado": "Cerrado",
+      "lunes": "9 a.m.–5 p.m.",
+      "martes": "9 a.m.–5 p.m.",
+      "miércoles": "9 a.m.–5 p.m.",
+      "jueves": "9 a.m.–5 p.m.",
+      "viernes": "9 a.m.–5 p.m.",
+      "sábado": "9 a.m.–4 p.m.",
       "domingo": "Cerrado"
     },
-    "place_id": "ChIJOXOQDmEVaI4RZ78YZWWC79o",
-    "data_id": "0x8e6815610e907339:0xdaef82656518bf67",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815610e907339%3A0xdaef82656518bf67&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1217030999999995,
-    "longitud": -73.1160218
+    "place_id": "ChIJ0cOx_a6DRo4RfItySGD1l78",
+    "data_id": "0x8e4683aefdb1c3d1:0xbf97f56048728b7c",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e4683aefdb1c3d1%3A0xbf97f56048728b7c&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2608030999999995,
+    "longitud": -75.57113749999999
   },
   {
-    "nombre": "PubliDigital Agencia de Marketing Digital",
+    "nombre": "Consultor Experto en Marketing Digital Cesar Mesa",
+    "rating": 4.9,
+    "reseñas": 343,
+    "tipos": [
+      "Agencia de marketing",
+      "Agencia de publicidad",
+      "Servicio de marketing por Internet",
+      "Consultora de marketing"
+    ],
+    "direccion": "Calle 52 ###47 – 28 Edificio LA CEIBA Oficina 1301, Medellín, Antioquia, Colombia",
+    "telefono": "+57 324 7966666",
+    "sitio_web": "https://cesarmesa.com.co/",
+    "horario": {
+      "lunes": "9 a.m.–5 p.m.",
+      "martes": "9 a.m.–5 p.m.",
+      "miércoles": "9 a.m.–5 p.m.",
+      "jueves": "9 a.m.–5 p.m.",
+      "viernes": "9 a.m.–5 p.m.",
+      "sábado": "9 a.m.–12 p.m.",
+      "domingo": "9 a.m.–12 p.m."
+    },
+    "place_id": "ChIJgSuS9SkpRI4RgC5WLF00Dj0",
+    "data_id": "0x8e442929f5922b81:0x3d0e345d2c562e80",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e442929f5922b81%3A0x3d0e345d2c562e80&engine=google_maps_reviews&hl=es",
+    "latitud": 6.249714699999999,
+    "longitud": -75.5656863
+  },
+  {
+    "nombre": "LinkON Marketing Digital",
     "rating": 4.8,
-    "reseñas": 31,
-    "tipos": [
-      "Agencia de marketing",
-      "Consultora de marketing",
-      "Diseñador de sitios web"
-    ],
-    "direccion": "Cl. 53 #31 152, Sotomayor, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 312 4735629",
-    "sitio_web": "https://publibga.com/",
-    "horario": {
-      "lunes": "8 a.m.–6 p.m.",
-      "martes": "8 a.m.–6 p.m.",
-      "miércoles": "8 a.m.–6 p.m.",
-      "jueves": "8 a.m.–6 p.m.",
-      "viernes": "8 a.m.–6 p.m.",
-      "sábado": "8 a.m.–6 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJb0Sxb4I_aI4Rkrc0WzcuKtI",
-    "data_id": "0x8e683f826fb1446f:0xd22a2e375b34b792",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f826fb1446f%3A0xd22a2e375b34b792&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1112115,
-    "longitud": -73.1106558
-  },
-  {
-    "nombre": "Labweb Agencia de Marketing",
-    "rating": 4.9,
-    "reseñas": 118,
-    "tipos": [
-      "Agencia de marketing",
-      "Agencia de publicidad",
-      "Servicio de marketing por Internet",
-      "Consultora de marketing",
-      "Servicio de edición de vídeo",
-      "Empresa de alojamiento web",
-      "Diseñador de sitios web"
-    ],
-    "direccion": "Edificio KBC, Cl. 49 #27a-65 Oficina 503, Cabecera del llano, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 301 2537333",
-    "sitio_web": "https://www.laboratorioweb.com.co/",
-    "horario": {
-      "lunes": "8 a.m.–8:30 p.m.",
-      "martes": "8 a.m.–8:30 p.m.",
-      "miércoles": "8 a.m.–8:30 p.m.",
-      "jueves": "8 a.m.–8:30 p.m.",
-      "viernes": "8 a.m.–8:30 p.m.",
-      "sábado": "8 a.m.–1 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJp2si19M_aI4RxD786gnv-e4",
-    "data_id": "0x8e683fd3d7226ba7:0xeef9ef09eafc3ec4",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fd3d7226ba7%3A0xeef9ef09eafc3ec4&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1158322,
-    "longitud": -73.1137394
-  },
-  {
-    "nombre": "Agencia Signature",
-    "rating": 5,
-    "reseñas": 50,
-    "tipos": [
-      "Agencia de publicidad"
-    ],
-    "direccion": "Cra. 37 #42 - 103, Cabecera del llano, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 318 2069369",
-    "sitio_web": "http://www.agenciasignature.com/",
-    "horario": {
-      "lunes": "10 a.m.–1 p.m., 3–6 p.m.",
-      "martes": "10 a.m.–1 p.m., 3–6 p.m.",
-      "miércoles": "10 a.m.–1 p.m., 3–6 p.m.",
-      "jueves": "10 a.m.–1 p.m., 3–6 p.m.",
-      "viernes": "9 a.m.–1 p.m., 3–6 p.m.",
-      "sábado": "10 a.m.–1 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJ63MWmBkVaI4Rr38KMMiP8lw",
-    "data_id": "0x8e681519981673eb:0x5cf28fc8300a7faf",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e681519981673eb%3A0x5cf28fc8300a7faf&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1207379,
-    "longitud": -73.1087521
-  },
-  {
-    "nombre": "MAD Agencia",
-    "rating": 4.4,
-    "reseñas": 15,
-    "tipos": [
-      "Servicio de marketing por Internet",
-      "Agencia de marketing",
-      "Consultora de marketing"
-    ],
-    "direccion": "Cl. 33 #26 - 25, Antonia Santos, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 300 5161511",
-    "sitio_web": "https://www.madagencia.com/",
-    "horario": {
-      "lunes": "8 a.m.–6 p.m.",
-      "martes": "8 a.m.–6 p.m.",
-      "miércoles": "8 a.m.–6 p.m.",
-      "jueves": "8 a.m.–6 p.m.",
-      "viernes": "8 a.m.–6 p.m.",
-      "sábado": "Cerrado",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJAQBMeeM_aI4Rz3t0MyWPKxU",
-    "data_id": "0x8e683fe3794c0001:0x152b8f2533747bcf",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fe3794c0001%3A0x152b8f2533747bcf&engine=google_maps_reviews&hl=es",
-    "latitud": 7.123703099999999,
-    "longitud": -73.11842539999999
-  },
-  {
-    "nombre": "Agencia SEO Colombia",
-    "rating": 4.9,
-    "reseñas": 19,
-    "tipos": [
-      "Agencia de marketing",
-      "Servicio de marketing por Internet",
-      "Agencia de publicidad",
-      "Consultora de marketing",
-      "Diseñador de sitios web"
-    ],
-    "direccion": "Cl. 14 #35-125 oficina 403, Los pinos, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 318 7678828",
-    "sitio_web": "https://marketingdigitalbucaramanga.com/",
-    "horario": {
-      "lunes": "Abierto las 24 horas",
-      "martes": "Abierto las 24 horas",
-      "miércoles": "Abierto las 24 horas",
-      "jueves": "Abierto las 24 horas",
-      "viernes": "Abierto las 24 horas",
-      "sábado": "Abierto las 24 horas",
-      "domingo": "Abierto las 24 horas"
-    },
-    "place_id": "ChIJedUtTkIVaI4R-2EtsaEQDcw",
-    "data_id": "0x8e6815424e2dd579:0xcc0d10a1b12d61fb",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815424e2dd579%3A0xcc0d10a1b12d61fb&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1345081,
-    "longitud": -73.10901319999999
-  },
-  {
-    "nombre": "agencia mdb",
-    "rating": 4.9,
-    "reseñas": 61,
-    "tipos": [
-      "Agencia de marketing",
-      "Agencia de publicidad",
-      "Diseñador gráfico",
-      "Diseñador de sitios web",
-      "Consultora de marketing"
-    ],
-    "direccion": "Cra. 28 #33-02, Mejoras Públicas, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 316 8818343",
-    "sitio_web": "https://agenciamdb.com/",
-    "horario": {
-      "lunes": "Abierto las 24 horas",
-      "martes": "Abierto las 24 horas",
-      "miércoles": "Abierto las 24 horas",
-      "jueves": "Abierto las 24 horas",
-      "viernes": "Abierto las 24 horas",
-      "sábado": "Abierto las 24 horas",
-      "domingo": "Abierto las 24 horas"
-    },
-    "place_id": "ChIJwT-WrE0VaI4RhEZxtGhL5pM",
-    "data_id": "0x8e68154dac963fc1:0x93e64b68b4714684",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e68154dac963fc1%3A0x93e64b68b4714684&engine=google_maps_reviews&hl=es",
-    "latitud": 7.124354899999999,
-    "longitud": -73.1167403
-  },
-  {
-    "nombre": "Agencia Digital",
-    "rating": 5,
-    "reseñas": 36,
-    "tipos": [
-      "Agencia de marketing",
-      "Diseñador gráfico",
-      "Diseñador de sitios web",
-      "Consultora de marketing"
-    ],
-    "direccion": "Avenida Quebrada Seca con, Cra 33A, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 318 7678828",
-    "sitio_web": "https://agencia-digital.com.co/",
-    "horario": {
-      "lunes": "Abierto las 24 horas",
-      "martes": "Abierto las 24 horas",
-      "miércoles": "Abierto las 24 horas",
-      "jueves": "Abierto las 24 horas",
-      "viernes": "Abierto las 24 horas",
-      "sábado": "Abierto las 24 horas",
-      "domingo": "Abierto las 24 horas"
-    },
-    "place_id": "ChIJ7wF5o9cVaI4RG2GlzLZ_Nr8",
-    "data_id": "0x8e6815d7a37901ef:0xbf367fb6cca5611b",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815d7a37901ef%3A0xbf367fb6cca5611b&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1311371999999995,
-    "longitud": -73.1128509
-  },
-  {
-    "nombre": "Marketing 1A Agencia",
-    "rating": 5,
-    "reseñas": 10,
+    "reseñas": 22,
     "tipos": [
       "Agencia de marketing"
     ],
-    "direccion": "Cra 21 #103-16, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 322 9493846",
-    "sitio_web": "http://www.marketing1a.com.co/",
+    "direccion": "Dg 75 #76 -16 Piso 2, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia, Colombia",
+    "telefono": "+57 301 2434867",
+    "sitio_web": "https://linkon.com.co/",
     "horario": {
-      "lunes": "8 a.m.–6 p.m.",
-      "martes": "8 a.m.–6 p.m.",
-      "miércoles": "8 a.m.–6 p.m.",
-      "jueves": "8 a.m.–6 p.m.",
-      "viernes": "8 a.m.–6 p.m.",
-      "sábado": "8 a.m.–6 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJQ7aeiaM_aI4RaZYc6tNnnq0",
-    "data_id": "0x8e683fa3899eb643:0xad9e67d3ea1c9669",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fa3899eb643%3A0xad9e67d3ea1c9669&engine=google_maps_reviews&hl=es",
-    "latitud": 7.086327,
-    "longitud": -73.11715219999999
-  },
-  {
-    "nombre": "Agencia Simétrika",
-    "rating": 5,
-    "reseñas": 12,
-    "tipos": [
-      "Agencia de marketing"
-    ],
-    "direccion": "Cra. 24 #65-59, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 316 6252213",
-    "sitio_web": "http://www.agenciasimetrika.com/",
-    "horario": {
-      "lunes": "8 a.m.–5 p.m.",
-      "martes": "8 a.m.–5 p.m.",
-      "miércoles": "8 a.m.–5 p.m.",
-      "jueves": "8 a.m.–5 p.m.",
-      "viernes": "8 a.m.–5 p.m.",
+      "lunes": "7:30 a.m.–5 p.m.",
+      "martes": "7:30 a.m.–5 p.m.",
+      "miércoles": "7:30 a.m.–5 p.m.",
+      "jueves": "7:30 a.m.–5 p.m.",
+      "viernes": "7:30 a.m.–5 p.m.",
       "sábado": "Cerrado",
       "domingo": "Cerrado"
     },
-    "place_id": "ChIJmUyWYVc_aI4RBTVsWUbMGaY",
-    "data_id": "0x8e683f5761964c99:0xa619cc46596c3505",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f5761964c99%3A0xa619cc46596c3505&engine=google_maps_reviews&hl=es",
-    "latitud": 7.102272999999999,
-    "longitud": -73.11461589999999
+    "place_id": "ChIJK6vlAhMpRI4RctrvQh6gGoI",
+    "data_id": "0x8e44291302e5ab2b:0x821aa01e42efda72",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e44291302e5ab2b%3A0x821aa01e42efda72&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2463695999999995,
+    "longitud": -75.5976206
   },
   {
-    "nombre": "Agencia go media",
-    "rating": 4.5,
-    "reseñas": 29,
-    "tipos": [
-      "Agencia de marketing",
-      "Agencia de publicidad"
-    ],
-    "direccion": "Cra. 35 #5477, Cabecera del llano, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 321 5081516",
-    "sitio_web": "https://agenciago.com/",
-    "horario": {
-      "lunes": "8 a.m.–5 p.m.",
-      "martes": "8 a.m.–5 p.m.",
-      "miércoles": "8 a.m.–5 p.m.",
-      "jueves": "8 a.m.–5 p.m.",
-      "viernes": "8 a.m.–5 p.m.",
-      "sábado": "8 a.m.–12 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJZz7S-Z4_aI4RWhvM0htFIaI",
-    "data_id": "0x8e683f9ef9d23e67:0xa221451bd2cc1b5a",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f9ef9d23e67%3A0xa221451bd2cc1b5a&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1105618999999995,
-    "longitud": -73.108691
-  },
-  {
-    "nombre": "Agencia de Publicidad Empuje Creativo",
+    "nombre": "SM Digital - Agencia de Marketing Digital",
     "rating": 4.8,
-    "reseñas": 19,
-    "tipos": [
-      "Agencia de publicidad"
-    ],
-    "direccion": "Altos del cacique, Cra. 56 #85 -31 Torre 8 Apto 132, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 607 6994526",
-    "sitio_web": "http://www.empujecreativo.com/",
-    "horario": {
-      "lunes": "8 a.m.–7 p.m.",
-      "martes": "8 a.m.–7 p.m.",
-      "miércoles": "8 a.m.–7 p.m.",
-      "jueves": "8 a.m.–7 p.m.",
-      "viernes": "8 a.m.–7 p.m.",
-      "sábado": "8 a.m.–12 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJUcwJJo0_aI4RuGWPkA1O0aU",
-    "data_id": "0x8e683f8d2609cc51:0xa5d14e0d908f65b8",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f8d2609cc51%3A0xa5d14e0d908f65b8&engine=google_maps_reviews&hl=es",
-    "latitud": 7.0988790999999996,
-    "longitud": -73.0967929
-  },
-  {
-    "nombre": "Dardo Creativo",
-    "rating": 4.5,
-    "reseñas": 13,
+    "reseñas": 74,
     "tipos": [
       "Agencia de marketing"
     ],
-    "direccion": "Cl. 34 #31-24, Mejoras Públicas, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 302 5463551",
-    "sitio_web": "http://www.dardocreativo.com/",
-    "horario": {
-      "lunes": "8 a.m.–7 p.m.",
-      "martes": "8 a.m.–7 p.m.",
-      "miércoles": "8 a.m.–7 p.m.",
-      "jueves": "8 a.m.–7 p.m.",
-      "viernes": "8 a.m.–7 p.m.",
-      "sábado": "Cerrado",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJbyKBKWEVaI4RLsxM-hWKusw",
-    "data_id": "0x8e6815612981226f:0xccba8a15fa4ccc2e",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815612981226f%3A0xccba8a15fa4ccc2e&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1246424,
-    "longitud": -73.1138989
-  },
-  {
-    "nombre": "Play Design Publicidad",
-    "rating": 4.5,
-    "reseñas": 63,
-    "tipos": [
-      "Agencia de publicidad"
-    ],
-    "direccion": "Cl. 42 #17-20, Centro, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 300 7775048",
-    "sitio_web": "https://playdesign.com.co/",
-    "horario": {
-      "lunes": "8:15 a.m.–12 p.m., 2–6 p.m.",
-      "martes": "8:15 a.m.–12 a.m.",
-      "miércoles": "12–6 a.m., 8:15 a.m.–12 p.m., 2–6 p.m.",
-      "jueves": "8:15 a.m.–12 p.m., 2–6 p.m.",
-      "viernes": "8:15 a.m.–12 p.m., 2–6 p.m.",
-      "sábado": "8:15 a.m.–1 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJJ-yFqtA_aI4R0Ejf8DYH0Tw",
-    "data_id": "0x8e683fd0aa85ec27:0x3cd10736f0df48d0",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fd0aa85ec27%3A0x3cd10736f0df48d0&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1158522,
-    "longitud": -73.1229704
-  },
-  {
-    "nombre": "Hacemos Comunicación",
-    "rating": 4.9,
-    "reseñas": 62,
-    "tipos": [
-      "Agencia de publicidad",
-      "Impresora digital"
-    ],
-    "direccion": "Cra. 35 #54-32, Cabecera del llano, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 6471299",
-    "sitio_web": null,
-    "horario": {
-      "lunes": "7:30 a.m.–12 p.m., 2–6 p.m.",
-      "martes": "7:30 a.m.–12 p.m., 2–6 p.m.",
-      "miércoles": "7:30 a.m.–12 p.m., 2–6 p.m.",
-      "jueves": "7:30 a.m.–12 p.m., 2–6 p.m.",
-      "viernes": "8 a.m.–12 p.m., 2–6 p.m.",
-      "sábado": "8 a.m.–12 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJZegozuc_aI4R7CRmwwCnLu4",
-    "data_id": "0x8e683fe7ce28e865:0xee2ea700c36624ec",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fe7ce28e865%3A0xee2ea700c36624ec&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1108343,
-    "longitud": -73.1089982
-  },
-  {
-    "nombre": "Graficon Publicidad",
-    "rating": 4.6,
-    "reseñas": 39,
-    "tipos": [
-      "Agencia de publicidad"
-    ],
-    "direccion": "Cra 16 #50-04, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 316 7498101",
-    "sitio_web": null,
-    "horario": {
-      "lunes": "8 a.m.–6 p.m.",
-      "martes": "7:30 a.m.–6:30 p.m.",
-      "miércoles": "7:30 a.m.–6:30 p.m.",
-      "jueves": "7:30 a.m.–6:30 p.m.",
-      "viernes": "7:30 a.m.–6:30 p.m.",
-      "sábado": "8 a.m.–2 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJJWMQqNo_aI4RUPGOjcm0-fg",
-    "data_id": "0x8e683fdaa8106325:0xf8f9b4c98d8ef150",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683fdaa8106325%3A0xf8f9b4c98d8ef150&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1112926,
-    "longitud": -73.12317519999999
-  },
-  {
-    "nombre": "SOLO DISEÑOS | Personalización Premium Bucaramanga",
-    "rating": 4.9,
-    "reseñas": 52,
-    "tipos": [
-      "Agencia de publicidad",
-      "Diseñador gráfico",
-      "Tienda de regalos",
-      "Imprenta",
-      "Societe de Flocage"
-    ],
-    "direccion": "Cl. 41 #19-38, Centro, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 301 5793703",
-    "sitio_web": "https://www.instagram.com/solodisenosbga/",
+    "direccion": "Edificio Castropol Plaza, Cra. 42 #14 - 11, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": "+57 604 4448566",
+    "sitio_web": "https://smdigital.com.co/",
     "horario": {
       "lunes": "8 a.m.–6 p.m.",
       "martes": "8 a.m.–6 p.m.",
       "miércoles": "8 a.m.–6 p.m.",
       "jueves": "8 a.m.–6 p.m.",
       "viernes": "8 a.m.–6 p.m.",
-      "sábado": "8 a.m.–2 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJ0UzQAHQ_aI4RqV-mejvYOY0",
-    "data_id": "0x8e683f7400d04cd1:0x8d39d83b7aa65fa9",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f7400d04cd1%3A0x8d39d83b7aa65fa9&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1168359,
-    "longitud": -73.1217559
-  },
-  {
-    "nombre": "GJA",
-    "rating": 4.6,
-    "reseñas": 10,
-    "tipos": [
-      "Agencia de publicidad"
-    ],
-    "direccion": "Cl. 45 # 24-74, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 318 3324824",
-    "sitio_web": "https://gjapublicidad.com/",
-    "horario": {
-      "lunes": "8 a.m.–6 p.m.",
-      "martes": "8 a.m.–6 p.m.",
-      "miércoles": "8 a.m.–6 p.m.",
-      "jueves": "8 a.m.–6 p.m.",
-      "viernes": "8 a.m.–6 p.m.",
-      "sábado": "9 a.m.–1 p.m.",
-      "domingo": "Cerrado"
-    },
-    "place_id": "ChIJMSK8Gpc_aI4Ri19kei1whF4",
-    "data_id": "0x8e683f971abc2231:0x5e84702d7a645f8b",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e683f971abc2231%3A0x5e84702d7a645f8b&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1174253,
-    "longitud": -73.11716249999999
-  },
-  {
-    "nombre": "Galanés Agencia de Comunicación",
-    "rating": 5,
-    "reseñas": 20,
-    "tipos": [
-      "Agencia de publicidad"
-    ],
-    "direccion": "Edificio Pranna, Cra. 32 #38-67, Mejoras Públicas, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 321 4403370",
-    "sitio_web": "https://galanes.net/",
-    "horario": {
-      "lunes": "8 a.m.–12 p.m., 2–6 p.m.",
-      "martes": "8 a.m.–12 p.m., 2–6 p.m.",
-      "miércoles": "8 a.m.–12 p.m., 2–6 p.m.",
-      "jueves": "8 a.m.–12 p.m., 2–6 p.m.",
-      "viernes": "8 a.m.–12 p.m., 2–6 p.m.",
       "sábado": "Cerrado",
       "domingo": "Cerrado"
     },
-    "place_id": "ChIJ2Ti6w7UVaI4RmRS5vzD1IyU",
-    "data_id": "0x8e6815b5c3ba38d9:0x2523f530bfb91499",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e6815b5c3ba38d9%3A0x2523f530bfb91499&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1219066,
-    "longitud": -73.112674
+    "place_id": "ChIJOfpXKSwoRI4R3Sx6KhwWzK4",
+    "data_id": "0x8e44282c2957fa39:0xaecc161c2a7a2cdd",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e44282c2957fa39%3A0xaecc161c2a7a2cdd&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2144812,
+    "longitud": -75.5688258
   },
   {
-    "nombre": "Creativo Graphic",
-    "rating": 5,
-    "reseñas": 16,
+    "nombre": "Julius 2 grow",
+    "rating": 4.8,
+    "reseñas": 105,
     "tipos": [
-      "Agencia de publicidad",
-      "Diseñador gráfico",
+      "Agencia de marketing"
+    ],
+    "direccion": "Cra. 43B #16-95 Piso 14 oficina 1401, poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": "+57 604 4448899",
+    "sitio_web": "https://www.julius2grow.com/es/inicio/",
+    "horario": {
+      "lunes": "7:30 a.m.–5:30 p.m.",
+      "martes": "7:30 a.m.–5:30 p.m.",
+      "miércoles": "7:30 a.m.–5:30 p.m.",
+      "jueves": "7:30 a.m.–5:30 p.m.",
+      "viernes": "7:30 a.m.–5:30 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJkaEu-ykoRI4Rsu0xPUrSCjM",
+    "data_id": "0x8e442829fb2ea191:0x330ad24a3d31edb2",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e442829fb2ea191%3A0x330ad24a3d31edb2&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2178469,
+    "longitud": -75.5706503
+  },
+  {
+    "nombre": "Webcreativa",
+    "rating": 4.7,
+    "reseñas": 69,
+    "tipos": [
       "Servicio de marketing por Internet",
+      "Agencia de marketing",
       "Diseñador de sitios web"
     ],
-    "direccion": "Cra. 24 #28-26, Bucaramanga, Santander, Colombia",
-    "telefono": "+57 304 2248884",
-    "sitio_web": "https://creativographic.com/",
+    "direccion": "Cra 43C #7D - 71, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": "+57 310 4410231",
+    "sitio_web": "http://www.webcreativa.com.co/es/",
     "horario": {
       "lunes": "8 a.m.–6 p.m.",
       "martes": "8 a.m.–6 p.m.",
       "miércoles": "8 a.m.–6 p.m.",
       "jueves": "8 a.m.–6 p.m.",
       "viernes": "8 a.m.–6 p.m.",
-      "sábado": "8 a.m.–5 p.m.",
+      "sábado": "9 a.m.–12 p.m.",
       "domingo": "Cerrado"
     },
-    "place_id": "ChIJxy-QCSMVaI4RfRHibo9V7LU",
-    "data_id": "0x8e68152309902fc7:0xb5ec558f6ee2117d",
-    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e68152309902fc7%3A0xb5ec558f6ee2117d&engine=google_maps_reviews&hl=es",
-    "latitud": 7.1259809999999995,
-    "longitud": -73.1213532
+    "place_id": "ChIJ1Qnv3SooRI4R4lSBksQLLNk",
+    "data_id": "0x8e44282addef09d5:0xd92c0bc4928154e2",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e44282addef09d5%3A0xd92c0bc4928154e2&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2095296,
+    "longitud": -75.5726292
+  },
+  {
+    "nombre": "Branch - Agencia de Marketing Digital y SEO",
+    "rating": 4.6,
+    "reseñas": 55,
+    "tipos": [
+      "Agencia de marketing",
+      "Servicio de marketing por Internet"
+    ],
+    "direccion": "Cl. 10d #30a - 115 Oficina 102, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+    "telefono": "+57 604 4483559",
+    "sitio_web": "https://branch.com.co/",
+    "horario": {
+      "lunes": "7 a.m.–6:30 p.m.",
+      "martes": "7 a.m.–6:30 p.m.",
+      "miércoles": "7 a.m.–6:30 p.m.",
+      "jueves": "7 a.m.–6:30 p.m.",
+      "viernes": "7 a.m.–6:30 p.m.",
+      "sábado": "Cerrado",
+      "domingo": "Cerrado"
+    },
+    "place_id": "ChIJi2t3GGYpRI4R9725TdcTI9M",
+    "data_id": "0x8e44296618776b8b:0xd32313d74db9bdf7",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8e44296618776b8b%3A0xd32313d74db9bdf7&engine=google_maps_reviews&hl=es",
+    "latitud": 6.2104989,
+    "longitud": -75.5605345
   }
 ]
