@@ -1,0 +1,21 @@
+
+.venv/
+.env
+
+# datos generados
+data/*.xlsx
+data/*.json
+data/*.csv
+data/~$*
+
+# python cache
+marketintel/__pycache__/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+marketintel.egg-info/
+scripts/

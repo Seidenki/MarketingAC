@@ -1,0 +1,20 @@
+{
+    "ciudades": {
+        "bogota": {"lat": 4.6700705, "lng": -74.0605921, "zoom": 12},
+        "medellin": {"lat": 6.2501048, "lng": -75.5680187, "zoom": 12},
+        "cali": {"lat": 3.4481432, "lng": -76.530004, "zoom": 12},
+        "barranquilla": {"lat": 10.9796421, "lng": -74.7787153, "zoom": 12},
+        "cartagena": {"lat": 10.4239671, "lng": -75.5511892, "zoom": 14},
+        "cucuta": {"lat": 7.905574984436363, "lng": -72.51002226167941, "zoom": 14},
+        "bucaramanga": {"lat": 7.1190086, "lng": -73.1245592, "zoom": 14},
+        "pereira": {"lat": 4.8130956, "lng": -75.6995, "zoom": 14},
+        "manizales": {"lat": 5.0676855, "lng": -75.518331, "zoom": 14},
+        "santa marta": {"lat": 11.2399582, "lng": -74.2093299, "zoom": 14}
+    },
+    "defaults": {
+        "ciudad": "bucaramanga",
+        "query": "agencia de marketing",
+        "formato": "json",
+        "nombre_archivo": "resultados"
+    }
+}
